@@ -7,7 +7,7 @@ module.exports = {
 	},
 	output: {
 		filename: 'javascript/[name]-[chunkhash].bundle.js',
-		path: path.resolve(__dirname, 'build'),
+		path: path.resolve(__dirname, 'build/client'),
 		clean: true
 	},
 	module: {

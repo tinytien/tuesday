@@ -10,7 +10,7 @@
     "lib": [
       "ES2018",
       "ESNext.AsyncIterable",
-      "dom"
+      "DOM"
     ],
     "module": "commonjs",
     "emitDecoratorMetadata": true,
